@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
+### Bonjour! 👋
 
 - 🔭 I’m currently working on web applications with Java and AngularJS
 - 🌱 I’m currently learning AngularJS
