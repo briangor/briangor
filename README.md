@@ -7,3 +7,5 @@
 - 📫 How to reach me: Twitter, Mail
 - ⚡ Fun fact: I love cakes and cookies
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=briangor)
+
