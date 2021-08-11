@@ -1,9 +1,9 @@
 ### Bonjour! 👋
 
-- 🔭 I’m currently working on web applications with Java and AngularJS
-- 🌱 I’m currently learning AngularJS
+- 🔭 I’m currently working on web applications with Java and Angular
+- 🌱 I'm learning about Artificial Intelligence 
 - 👯 I’m looking to collaborate on open souce projects
-- 💬 Ask me about Java, JS and Cars😄
+- 💬 Ask me about Java, AI and Cars😄
 - 📫 How to reach me: Twitter, Mail
 - ⚡ Fun fact: I love cakes and cookies😝
 
