@@ -16,6 +16,7 @@
 
 
 <!-- ### Bonjour! 👋 -->
+### Bio:
 
 - 🔭 I’m currently working on web applications with Java and Angular
 - 🌱 I'm learning React, Python for ML and the cloud (AWS)  
