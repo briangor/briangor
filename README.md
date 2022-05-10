@@ -52,7 +52,7 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;
   <img src="https://axios-http.com/assets/logo.svg" title="Axios" alt="Axios" width="40" height="40" />&nbsp;
-  <img src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/white-nextjs.png" title="NextJS" alt="NextJS" width="40" height="40" />&nbsp;
+  <img src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-white-logo.svg" title="NextJS" alt="NextJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
