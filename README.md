@@ -9,8 +9,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<h1>
+  Bonjour!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### Bonjour! 👋
+<!-- ### Bonjour! 👋 -->
 
 - 🔭 I’m currently working on web applications with Java and Angular
 - 🌱 I'm learning React, Python for ML and the cloud (AWS)  
