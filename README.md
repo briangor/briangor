@@ -62,11 +62,11 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
 
 ### Connect with me:
 
- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev.to]
- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
- [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ [<img align="left" width="22px" src="https://www.iconsdb.com/icons/preview/white/globe-xl.png" />][website]
+ [<img align="left" width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" />][dev.to]
+ [<img align="left" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" />][linkedin]
+ [<img align="left" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xl.png" />][twitter]
+ [<img align="left" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xl.png" />][instagram]
  
 [website]: https://briangor.github.io/
 [twitter]: https://twitter.com/brianxgor
