@@ -80,4 +80,4 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=briangor)
 <!-- <br /> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briangor)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=briangor&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
