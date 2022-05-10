@@ -18,11 +18,11 @@
 <!-- ### Bonjour! 👋 -->
 ### Bio:
 
-- 🔭 I’m currently working on web applications with Java and Angular
-- 🌱 I'm learning React, Python for ML and the cloud (AWS)  
+- 🔭 I’m currently working on UI/UX and React Applications 
+- 🌱 I'm learning cloud architecture (AWS), and the React ecosystem  
 - 👯 I’m looking to collaborate on open souce projects
 - 💬 Ask me about Java, AI and Cars😄
-- 📫 How to reach me: Twitter, Mail
+- 📫 How to reach me: Twitter, Email
 - ⚡ Fun fact: Apples🍎 are my favorite😎
 
 ### Languages and Tools:
