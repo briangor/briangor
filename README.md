@@ -1,14 +1,14 @@
 ### Bonjour! 👋
 
 - 🔭 I’m currently working on web applications with Java and Angular
-- 🌱 I'm learning about React, Python for ML and the cloud (AWS)  
+- 🌱 I'm learning React, Python for ML and the cloud (AWS)  
 - 👯 I’m looking to collaborate on open souce projects
 - 💬 Ask me about Java, AI and Cars😄
 - 📫 How to reach me: Twitter, Mail
 - ⚡ Fun fact: Apples🍎 are my favorite😎
 
 ### Languages and Tools:
-Java, Python, JavaScript, TypeScript, Angular, Node.js, HTML, CSS, Spring Boot, SASS, SCSS, MySQL, MongoDB, C, C++
+Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, SCSS, MySQL, MongoDB, C, C++, Axios, Redux, Storybook
 <br/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
