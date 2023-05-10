@@ -51,9 +51,11 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40" />&nbsp;
-  <img src="https://www.postman.com/_mk-www-v6.105.0/assets/logos/postman-logo-stacked.svg" title="Postman" alt="Postman" width="40" height="40" />&nbsp;
+  <img src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg" title="Postman" alt="Postman" width="40" height="40" />&nbsp;
+<!--   https://www.postman.com/_mk-www-v6.105.0/assets/logos/postman-logo-stacked.svg -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
+    <img src="https://seeklogo.com/images/C/chromatic-logo-4A0803FA76-seeklogo.com.png" title="Chromatic" alt="Chromatic" width="40" height="40" />&nbsp;
 <!--   <img src="" title="" alt="" width="40" height="40" />&nbsp; -->
   
 
