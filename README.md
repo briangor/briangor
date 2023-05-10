@@ -55,6 +55,7 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
 <!--   https://www.postman.com/_mk-www-v6.105.0/assets/logos/postman-logo-stacked.svg -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" title="Storybook" alt="Storybook" width="40" height="40" />&nbsp;
     <img src="https://seeklogo.com/images/C/chromatic-logo-4A0803FA76-seeklogo.com.png" title="Chromatic" alt="Chromatic" width="40" height="40" />&nbsp;
 <!--   <img src="" title="" alt="" width="40" height="40" />&nbsp; -->
   
