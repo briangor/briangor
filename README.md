@@ -18,12 +18,12 @@
 <!-- ### Bonjour! 👋 -->
 ### Bio:
 
-- 🔭 I’m currently working on UI/UX and React Applications 
-- 🌱 I'm learning cloud architecture (AWS), and the React ecosystem  
+- 🔭 I’m currently working on Nextjs + MongoDB applications 
+- 🌱 I'm learning cloud architecture (AWS)  
 - 👯 I’m looking to collaborate on open souce projects
-- 💬 Ask me about Java, AI and Cars😄
+- 💬 Ask me about AI, Cars, and Space 👽
 - 📫 How to reach me: Twitter, Email
-- ⚡ Fun fact: Apples🍎 are my favorite😎
+- ⚡ Fun fact: Apples🍎 are my favorite 😎
 
 ### Languages and Tools:
 Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, SCSS, MySQL, MongoDB, C, C++, Axios, Redux, Storybook
