@@ -44,6 +44,8 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
   <img src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-white-logo.svg" title="NextJS" alt="NextJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby" alt="Gatsby" width="40" height="40" />&nbsp;
   <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-white.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-woodmark.svg" title="ExpressJS" alt="ExpressJS" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;
@@ -57,6 +59,9 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40" />&nbsp;
     <img src="https://avatars.githubusercontent.com/u/22632046?s=200&v=4" title="Storybook" alt="Storybook" width="40" height="40" />&nbsp;
     <img src="https://seeklogo.com/images/C/chromatic-logo-4A0803FA76-seeklogo.com.png" title="Chromatic" alt="Chromatic" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" alt="Gimp" width="40" height="40" />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40" />&nbsp;
+<!--   <img src="" title="" alt="" width="40" height="40" />&nbsp; -->
 <!--   <img src="" title="" alt="" width="40" height="40" />&nbsp; -->
   
 
