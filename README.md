@@ -79,7 +79,7 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
 [website]: https://briangor.github.io/
 [twitter]: https://twitter.com/brianxgor
 [instagram]: https://www.instagram.com/brian.gor
-[linkedin]: https://www.linkedin.com/in/brian-gor
+[linkedin]: https://www.linkedin.com/in/briangor
 [dev.to]: https://www.dev.to/briangor
 <br/>
 <br/>
