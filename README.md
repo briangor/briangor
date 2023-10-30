@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on open souce projects
 - 💬 Ask me about AI, Cars, and Space 👽
 - 📫 How to reach me: Twitter, Email
-- ⚡ Fun fact: Apples🍎 are my favorite 😎
+- ⚡ Fun fact: Pineapples 🍍 and Mangoes 🥭 are my favorite fruits 🤖😎
 
 ### Languages and Tools:
 Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, SCSS, MySQL, MongoDB, C, C++, Axios, Redux, Storybook
