@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/briangor">
+<!--   <div id="badges">
+  <a href="https://www.linkedin.com/in/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.twitter.com/brianxgor">
+  <a href="https://">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> -->
 <h1>
   Bonjour!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -22,7 +22,7 @@
 - 🌱 I'm learning cloud architecture (AWS)  
 - 👯 I’m looking to collaborate on open souce projects
 - 💬 Ask me about AI, Cars, and Space 👽
-- 📫 How to reach me: Twitter, Email
+- 📫 How to reach me: Telepathy
 - ⚡ Fun fact: Pineapples 🍍 and Mangoes 🥭 are my favorite fruits 🤖😎
 
 ### Languages and Tools:
