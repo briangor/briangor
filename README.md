@@ -74,12 +74,8 @@ Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, 
  [<img align="left" width="22px" src="https://www.iconsdb.com/icons/preview/white/globe-xl.png" />][website]
  [<img align="left" width="22px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--R9qwOwpC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/78hs31fax49uwy6kbxyw.png" />][dev.to]
  [<img align="left" width="22px" src="https://www.iconsdb.com/icons/preview/white/linkedin-3-xl.png" />][linkedin]
- [<img align="left" width="22px" src="https://www.iconsdb.com/icons/preview/white/twitter-xl.png" />][twitter]
- [<img align="left" width="22px" src="https://www.iconsdb.com/icons/preview/white/instagram-xl.png" />][instagram]
  
 [website]: https://briangor.github.io/
-[twitter]: https://twitter.com/brianxgor
-[instagram]: https://www.instagram.com/brian.gor
 [linkedin]: https://www.linkedin.com/in/briangor
 [dev.to]: https://www.dev.to/briangor
 <br/>
