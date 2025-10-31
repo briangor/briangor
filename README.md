@@ -9,21 +9,22 @@
   </a>
 </div> -->
 <h1>
-  Bonjour!
+  Jambo! Habari gani?
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 
-<!-- ### Bonjour! 👋 -->
+<!-- ### Jambo! 👋 -->
 ### Bio:
 
-- 🔭 I’m currently working on Nextjs + MongoDB applications 
-- 🌱 I'm learning cloud architecture (AWS)  
+- 🔭 I’m currently working on Nextjs + MySQL applications 
+- 🌱 I'm learning more on enterprise Java 
 - 👯 I’m looking to collaborate on open souce projects
 - 💬 Ask me about AI, Cars, and Space 👽
-- 📫 How to reach me: Telepathy
+- 📫 How to reach me: Telepathy & on X
 - ⚡ Fun fact: Pineapples 🍍 and Mangoes 🥭 are my favorite fruits 🤖😎
+- 📍 Silicon Savannah 
 
 ### Languages and Tools:
 Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, SCSS, MySQL, MongoDB, C, C++, Axios, Redux, Storybook
