@@ -24,7 +24,7 @@
 - 💬 Ask me about AI, Cars, and Space 👽
 - 📫 How to reach me: Telepathy & on X
 - ⚡ Fun fact: Pineapples 🍍 and Mangoes 🥭 are my favorite fruits 🤖😎
-- 📍 Silicon Savannah 
+- 📍 Silicon Savannah 🇰🇪
 
 ### Languages and Tools:
 Java, Python, JavaScript, TypeScript, Angular, React, Node.js, HTML, CSS, SASS, SCSS, MySQL, MongoDB, C, C++, Axios, Redux, Storybook
